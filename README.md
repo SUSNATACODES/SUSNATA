@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.  
+I’m **Susnata Biswas**, an **Electronics &amp; Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.  
 I love solving problems, experimenting with projects, and sharing my learning journey.  
 
 💡 *“Turning curiosity into code, and ideas into impact.”*
@@ -53,7 +53,7 @@ I love solving problems, experimenting with projects, and sharing my learning jo
 
 ---
 
-### 🏆 Top Contributed Repo  
+## 🏆 Top Contributed Repo  
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=susnatacodes&limit=5&theme=react&combine_all_yearly_contributions=true" />
