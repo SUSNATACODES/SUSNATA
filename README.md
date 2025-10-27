@@ -11,7 +11,7 @@ I love solving problems, experimenting with projects, and sharing my learning jo
 
 ### 📬 Connect with Me  
 
-[![Mail](https://img.shields.io/badge/-Email-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![Mail](https://img.shields.io/badge/-Email-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:susnatacodes@zohomail.in)  
 [![LinkedIn](https://img.shields.io/badge/-Susnata%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://susnatacodes.blogspot.com)  
 [![GitHub Followers](https://img.shields.io/github/followers/susnatacodes?label=GitHub%20Followers&style=flat&logo=github)](https://github.com/susnatacodes)  
