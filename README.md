@@ -1,9 +1,5 @@
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Hi,%20I'm%20Susnata%20Biswas&fontSize=45&fontColor=61DAFB&fontAlignY=40&animation=twinkling&desc=Electronics%20%26%20Telecommunication%20Student%20|%20Coder%20|%20Tech%20Explorer&descSize=20&descAlignY=70&section=header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=50&textBg=false&animation=twinkling&desc=Electronics%20%20%20Telecommunication%20Student%20|%20Coder%20|%20Tech%20Explorer&descSize=20&descAlignY=73)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=50&textBg=false&animation=twinkling&desc=Electronics%20%20%20Telecommunication%20Student%20|%20Coder%20|%20Tech%20Explorer&descSize=20&descAlignY=73" />
 
-
----
-
-## 👨‍💻 About Me  
 I’m **Susnata Biswas**, an **Electronics &amp; Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.  
 I love solving problems, experimenting with projects, and sharing my learning journey.  
 
